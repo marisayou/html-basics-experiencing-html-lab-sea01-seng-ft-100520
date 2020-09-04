@@ -1,0 +1,6 @@
+"Italy"
+"Greece"
+"Spain"
+"Japan"
+"South Korea"
+"Taiwan"
